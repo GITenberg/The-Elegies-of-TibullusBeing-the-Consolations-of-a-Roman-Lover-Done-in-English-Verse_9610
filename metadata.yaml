@@ -1,0 +1,36 @@
+_repo: The-Elegies-of-TibullusBeing-the-Consolations-of-a-Roman-Lover-Done-in-English-Verse_9610
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Williams, Theodore Chickering
+    birthdate: 1855
+    deathdate: 1915
+    gutenberg_agent_id: '3098'
+    url: http://www.gutenberg.org/2009/agents/3098
+creator:
+  author:
+    agent_name: Tibullus
+    alias: Tibullus, Albius
+    birthdate: -54
+    deathdate: -19
+    gutenberg_agent_id: '3097'
+    url: http://www.gutenberg.org/2009/agents/3097
+    wikipedia: http://en.wikipedia.org/wiki/Tibullus
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Tibullus -- Translations into English'
+- !lcsh 'Elegiac poetry, Latin -- Translations into English'
+- GITenberg
+title: 'The Elegies of Tibullus
+
+  Being the Consolations of a Roman Lover Done in English Verse'
+url: http://www.gutenberg.org/ebooks/9610
