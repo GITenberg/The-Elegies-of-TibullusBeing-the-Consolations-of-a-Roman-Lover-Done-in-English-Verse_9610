@@ -1,5 +1,5 @@
 _repo: The-Elegies-of-TibullusBeing-the-Consolations-of-a-Roman-Lover-Done-in-English-Verse_9610
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Williams, Theodore Chickering
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1915
     gutenberg_agent_id: '3098'
     url: http://www.gutenberg.org/2009/agents/3098
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tibullus
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3097
     wikipedia: http://en.wikipedia.org/wiki/Tibullus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9610#The-Elegies-of-TibullusBeing-the-Consolations-of-a-Roman-Lover-Done-in-English-Verse
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
